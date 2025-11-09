@@ -42,6 +42,8 @@ Essa arquitetura centralizada no `key_handler` mantém a lógica de interação 
 - **`utils.py`**: Uma coleção de funções utilitárias usadas em todo o projeto, como prompts para o usuário, manipulação do sistema de arquivos e abertura de terminais externos.
 
 ## 3. Recursos e Mecânicas
+s<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc4d75c5-bcbd-4ec3-bea1-47539ff68837" />
+
 
 - **Edição de Texto Moderna**: Suporte a múltiplas abas, destaque de sintaxe para várias linguagens, seleção de texto, duplicar linha, mover linha para cima/baixo e comentar/descomentar código.
 - **Gerenciamento de Projeto**: Uma barra lateral (`Ctrl+F`) para navegar facilmente entre arquivos e pastas. Permite criar, renomear e deletar itens diretamente.
@@ -118,4 +120,3 @@ Esta é uma lista completa dos atalhos disponíveis no Tasmacode.
 | `D` | Descartar TODAS as alterações não salvas no projeto |
 
 ---
-*Obrigado por usar o Tasmacode!*
