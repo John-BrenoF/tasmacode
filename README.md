@@ -19,7 +19,7 @@ O Tasmacode é construído em Python usando a biblioteca `curses` para renderiza
 
 O fluxo principal é orquestrado pelo arquivo `main.py`. Ele funciona em um ciclo contínuo:
 
-1.  **`main.py`**: Inicia todos os componentes (Editor, Sidebar, Console, etc.).
+1.  **`main.py`**: Inicia todos os componentes (Editor, Sidebar, Console,console ..... ).
 2.  **Loop Principal**:
     a. **`draw()`**: Desenha a interface de todos os componentes visíveis na tela (abas, texto, sidebar, status bar).
     b. **`getch()`**: Aguarda a entrada do usuário (uma tecla pressionada).
